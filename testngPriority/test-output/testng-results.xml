@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="154" started-at="2021-07-22T04:32:45Z" finished-at="2021-07-22T04:32:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="154" started-at="2021-07-22T04:32:45Z" finished-at="2021-07-22T04:32:45Z">
+      <class name="selenium.testngTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:selenium.testngTest@58860997]" name="login" duration-ms="40" started-at="2021-07-22T10:02:45Z" finished-at="2021-07-22T10:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="reg()[pri:0, instance:selenium.testngTest@58860997]" name="reg" duration-ms="9" started-at="2021-07-22T10:02:45Z" finished-at="2021-07-22T10:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg -->
+        <test-method status="PASS" signature="order()[pri:2, instance:selenium.testngTest@58860997]" name="order" duration-ms="5" started-at="2021-07-22T10:02:45Z" finished-at="2021-07-22T10:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method status="PASS" signature="booking()[pri:3, instance:selenium.testngTest@58860997]" name="booking" duration-ms="4" started-at="2021-07-22T10:02:45Z" finished-at="2021-07-22T10:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking -->
+        <test-method status="PASS" signature="close()[pri:4, instance:selenium.testngTest@58860997]" name="close" duration-ms="6" started-at="2021-07-22T10:02:45Z" finished-at="2021-07-22T10:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- selenium.testngTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
